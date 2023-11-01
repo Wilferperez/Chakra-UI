@@ -87,7 +87,8 @@ const eventsList = [
     id: "4",
     name: "E3",
     start: DateTime.now().plus({ weeks: 3.5 }).toJSDate(),
-    poster: "https://web.njit.edu/~rs865/images/e3/wrashidd_e3_poster_01.png",
+    // poster: "https://web.njit.edu/~rs865/images/e3/wrashidd_e3_poster_01.png",
+    poster: "https://www.talkesport.com/wp-content/uploads/e3-2020.png",
     description:
       "E3 is a trade event for the video game industry. The Entertainment Software Association organizes and presents E3, which many developers, publishers, hardware, and accessory manufacturers use to introduce and advertise upcoming games and game-related merchandise to retailers and to members of the press",
     prices: [
